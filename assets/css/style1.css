@@ -1,0 +1,174 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+
+body {
+    background-color: #c7f3ef;
+}
+
+.header {
+    padding: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #c8f1b1;
+    color: #111111;
+}
+
+.header h1 {
+    display: inline-block;
+    font-size: 48px;
+}
+
+.header h1 .ford {
+    color: #1f311b;
+}
+
+.header div {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.header div ul {
+    list-style-type: none;
+}
+
+.header div ul li {
+    display: inline-block;
+    margin-left: 25px;
+}
+
+a {
+    color: #201b1b;
+    text-decoration: none;
+}
+
+p {
+    font-size: 16px;
+}
+
+.rc3 {
+    height: 400px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images2/rc3_borego.png");
+    
+    background-size: cover;
+    background-position: center;
+}
+
+.float-left {
+    float: left;
+    margin-right: 25px;
+}
+
+.float-right {
+    float: right;
+    margin-left: 25px;
+}
+
+.content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+.mylinks {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #c3d8b7;
+}
+
+.mylinks-work {
+    margin-bottom: 32px;
+    color: #201b1b;
+}
+
+
+.mylinks-work h3 {
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+.mylinks-work img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+}
+
+
+
+.about-me {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #c3d8b7;
+    color: #201b1b;
+}
+
+.contact {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #c3d8b7;
+    color: #201b1b;
+    
+}
+
+.portfolio {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #c3d8b7;
+    color: #201b1b;
+}
+
+.about-me img {
+    max-height: 200px;
+}
+
+.contact img {
+    max-height: 200px;
+}
+
+.portfolio img {
+    max-height: 200px;
+}
+
+.about-me h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.contacte h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.portfolio h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
+
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.footer h2 {
+    font-size: 20px;
+}

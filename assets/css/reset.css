@@ -1,0 +1,13 @@
+@charset "utf-8";
+.test1 {
+	font-family: Cambria, Hoefler Text, Liberation Serif, Times, Times New Roman, serif;
+	font-size: 22px;
+}
+.wire { 
+	border-left-color: #e2e227;
+	border-right-color: blue;
+	border-left: thick;
+	border-right: thick; align-self:center
+
+}
+.me {border-color:brown;}
