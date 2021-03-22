@@ -1,4 +1,4 @@
-* {
+*  {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
@@ -6,13 +6,13 @@
 
 
 body {
-    background-color: #c7f3ef;
+    background-color: #8dbef5;
 }
 
 .header {
-    padding: 20px;
+    padding: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    background-color: #c8f1b1;
+    background-color: #8dbef5;
     color: #111111;
 }
 
@@ -22,7 +22,7 @@ body {
 }
 
 .header h1 .ford {
-    color: #1f311b;
+    color: #ec991c;
 }
 
 .header div {
@@ -31,6 +31,7 @@ body {
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+    
 }
 
 .header div ul {
@@ -85,14 +86,18 @@ p {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #c3d8b7;
+    background-color: #727cda;
 }
 
 .mylinks-work {
     margin-bottom: 32px;
     color: #201b1b;
 }
-
+.mylinks-resume{
+    margin-bottom: 20px;
+    padding-top: 30px;
+    color: #201b1b;
+}
 
 .mylinks-work h3 {
     margin-bottom: 15px;
@@ -112,7 +117,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #c3d8b7;
+    background-color: #727cda;
     color: #201b1b;
 }
 
@@ -121,7 +126,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #c3d8b7;
+    background-color: #727cda;
     color: #201b1b;
     
 }
@@ -131,7 +136,7 @@ p {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #c3d8b7;
+    background-color: #727cda;
     color: #201b1b;
 }
 
